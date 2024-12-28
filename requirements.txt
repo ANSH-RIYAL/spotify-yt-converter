@@ -1,3 +1,4 @@
 Flask 
 spotipy 
 google-api-python-client
+gunicorn
